@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab05-MaytaCuevas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd8202f751f8d6616c73e9f7cbf61fea0d8ee5b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab05-MaytaCuevas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab05-MaytaCuevas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

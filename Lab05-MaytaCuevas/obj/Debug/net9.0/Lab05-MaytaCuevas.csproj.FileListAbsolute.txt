@@ -131,3 +131,13 @@ E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\obj\Debug\net9.0\refint
 E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\obj\Debug\net9.0\Lab05-MaytaCuevas.pdb
 E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\obj\Debug\net9.0\Lab05-MaytaCuevas.genruntimeconfig.cache
 E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\obj\Debug\net9.0\ref\Lab05-MaytaCuevas.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\obj\Debug\net9.0\Lab05-MaytaCuevas.sourcelink.json
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\BCrypt.Net-Next.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\JBRider\Proyectos\Lab05-MaytaCuevas\Lab05-MaytaCuevas\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

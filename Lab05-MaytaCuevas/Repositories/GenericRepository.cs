@@ -7,10 +7,10 @@ namespace Lab04_MaytaAlberth.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        protected readonly SistemaAcoContex _context;
+        protected readonly SistemaAcademicoContext _context;
         private readonly DbSet<T> _dbSet;
 
-        public GenericRepository(SistemaAcoContex context)
+        public GenericRepository(SistemaAcademicoContext context)
         {
             _context = context;
             _dbSet = context.Set<T>();

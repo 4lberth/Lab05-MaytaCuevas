@@ -7,9 +7,9 @@ using Lab05_MaytaCuevas;
 public class UnitOfWork : IUnitOfWork
 {
     private readonly Hashtable _repositories;
-    private readonly SistemaAcoContex _context;
+    private readonly SistemaAcademicoContext _context;
 
-    public UnitOfWork(SistemaAcoContex context)
+    public UnitOfWork(SistemaAcademicoContext context)
     {
         _context = context;
         _repositories = new Hashtable();

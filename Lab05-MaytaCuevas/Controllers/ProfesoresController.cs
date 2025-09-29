@@ -1,11 +1,13 @@
 ﻿using Lab05_MaytaAlberth.UnitOfWork;
 using Lab05_MaytaCuevas.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Lab05_MaytaAlberth.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize(Roles = "Admin")] 
     public class ProfesoresController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
